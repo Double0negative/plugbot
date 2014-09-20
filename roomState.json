@@ -1,0 +1,136 @@
+[
+    {
+        "booth": {
+            "currentDJ": 5025894,
+            "isLocked": false,
+            "shouldCycle": true,
+            "waitingDJs": [
+                4141099,
+                3921766,
+                3832089
+            ]
+        },
+        "fx": [],
+        "grabs": {},
+        "meta": {
+            "description": "DJ&#39;ing for Minecraft Superior Gaming! All users welcome!",
+            "favorite": false,
+            "hostID": 3735097,
+            "hostName": "Double0negative",
+            "id": 464899,
+            "name": "MC-SG",
+            "population": 9,
+            "slug": "mc-sg",
+            "welcome": "Welcome to the MC-SG Plug.dj! Please, no auto wooting! Will result in a kick!"
+        },
+        "mutes": {},
+        "playback": {
+            "historyID": "e70360e4-03cd-41a5-bd92-0cc2d9c08a88",
+            "media": {
+                "author": "Plain White T's",
+                "cid": "EbJtYqBYCV8",
+                "duration": 237,
+                "format": 1,
+                "id": 233996783,
+                "image": "http://i.ytimg.com/vi/EbJtYqBYCV8/default.jpg",
+                "title": "Hey There Delilah"
+            },
+            "playlistID": 4828435,
+            "startTime": "2014-09-20 00:47:07.254229"
+        },
+        "role": 3,
+        "users": [
+            {
+                "avatarID": "classic09",
+                "badge": 1,
+                "gRole": null,
+                "id": 4054587,
+                "joined": "2014-04-04 20:10:45.518000",
+                "level": 5,
+                "role": 0,
+                "status": 1,
+                "username": "Chewy-Nina"
+            },
+            {
+                "avatarID": "base14",
+                "badge": 0,
+                "gRole": 0,
+                "id": 5025894,
+                "joined": "2014-08-30 22:04:43.004256",
+                "level": 5,
+                "role": 0,
+                "status": 3,
+                "username": "Oinkie"
+            },
+            {
+                "avatarID": "classic11",
+                "badge": 3,
+                "gRole": null,
+                "id": 3735097,
+                "joined": "2013-06-04 02:23:44.038000",
+                "level": 5,
+                "role": 5,
+                "status": 3,
+                "username": "Double0negative"
+            },
+            {
+                "avatarID": "base01",
+                "badge": 0,
+                "gRole": 0,
+                "id": 5139592,
+                "joined": "2014-09-14 20:04:20.781084",
+                "level": 5,
+                "role": 0,
+                "status": 0,
+                "username": "Bilybob123"
+            },
+            {
+                "avatarID": "classic07",
+                "badge": 4,
+                "gRole": null,
+                "id": 3832089,
+                "joined": "2013-07-27 20:48:02.135000",
+                "level": 6,
+                "role": 2,
+                "status": 0,
+                "username": "Mike"
+            },
+            {
+                "avatarID": "classic05",
+                "badge": 3,
+                "gRole": null,
+                "id": 3921766,
+                "joined": "2012-07-23 07:40:59.364000",
+                "level": 5,
+                "role": 4,
+                "status": 0,
+                "username": "Chasky"
+            },
+            {
+                "avatarID": "country15",
+                "badge": 2,
+                "gRole": null,
+                "id": 4183714,
+                "joined": "2013-07-31 18:47:53.179000",
+                "level": 6,
+                "role": 1,
+                "status": 0,
+                "username": "_JJB_"
+            },
+            {
+                "avatarID": "rave02",
+                "badge": 3,
+                "gRole": null,
+                "id": 4141099,
+                "joined": "2013-07-28 13:58:16.127000",
+                "level": 5,
+                "role": 2,
+                "status": 0,
+                "username": "big20"
+            }
+        ],
+        "votes": {
+            "3921766": -1
+        }
+    }
+]

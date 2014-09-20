@@ -1,0 +1,14 @@
+{
+	"mysql" : {
+		"host" : "localhost",
+		"database" : "plugdj",
+		"username" : "user",
+		"password" : "pass"
+	},
+
+	"bot" : {
+		"email" : "email@gmail.com",
+		"password" : "pass",
+		"room" : "mc-sg"
+	}
+}
