@@ -1,5 +1,11 @@
 var DJ = function DJ(uuid, name, positive, grab, negative, skipped, listeners){
-
+	this.uuid = uuid;
+	this.name = name;
+	this.positive = positive;
+	this.grab = grab;
+	this.negative = negative;
+	this.skipped = skipped;
+	this.listeners = listeners;
 
 	this.save = function save(db){
 		var query = db.query('INSERT INTO users values(NULL,?,?,?,?,?,0,0,0,1,0,?,?) '+

@@ -18,6 +18,9 @@ var user = function user(uuid, name){
 		this.grab = 1;
 	};
 
+	this.getScore = function getScore(){
+		return woot - meh + grab ;
+	}
 
 	this.getName = function getName(){
 		return this.name;
