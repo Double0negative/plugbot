@@ -148,7 +148,7 @@ PlugAPI.prototype.skip_reason = {
 	DISLIKED : {"str" : "DISLIKED" ,"reason" : "To many dislikes", "msg" : "This song is overly disliked by the community"},
 	TO_LONG : {"str" : "TO_LONG", "reason" : "Too Long", "msg" : "This song is too long"},
 	INAPPROPRIATE : {"str" : "INAPPROPRIATE", "reason" : "Inappropriate", "msg" : "This song is inappropriate"},
-	AUTO_DISLIKE : {"str" : "AUTO_DISLIKE", "reason" : "Disliked", "msg" : "To many dislikes were recived"},
-	OTHER : {"str" : "OTHER" ,"reason" : "Other", "msg": "other"},
-	NONE : {"str": "NONE" , "reason" : "None", "msg" : "skipped by a moderator"}
+	AUTO_DISLIKE : {"str" : "AUTO_DISLIKE", "reason" : "Disliked", "msg" : "Too many dislikes were recived"},
+	OTHER : {"str" : "OTHER" ,"reason" : "Other", "msg": "Other"},
+	NONE : {"str": "NONE" , "reason" : "None", "msg" : "Skipped by a moderator"}
 }
